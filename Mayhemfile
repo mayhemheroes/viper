@@ -1,0 +1,6 @@
+project: viper
+target: viper
+
+cmds:
+  - cmd: /fuzz_setdefault
+    env: {}
